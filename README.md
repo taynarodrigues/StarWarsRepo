@@ -1,4 +1,4 @@
-# Star Wars Repo
+# Star Wars Diogo
 
 ![Tie Fighter](./tiefighter.png)
 
